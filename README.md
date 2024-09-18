@@ -59,6 +59,8 @@ The application will be available at http://localhost:3000 by default.
 
 Live Demo
 
-You can view the live demo of the application here, which showcases the functionality of the Todo List application in action.
+You can view the live demo of the application here,
+https://madhanv22.github.io/react-todo-list/
+which showcases the functionality of the Todo List application in action.
 
 
