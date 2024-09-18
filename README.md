@@ -43,11 +43,7 @@ npm run dev
 
 The application will be available at http://localhost:3000 by default.
 
-
-
 Live Demo
 
 You can view the live demo of the application here.
-
-`[here](https://madhanv22.github.io/react-todo-list/)` 
 
